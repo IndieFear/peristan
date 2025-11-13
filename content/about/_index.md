@@ -4,7 +4,7 @@ description: "Who am I and what is peristan?"
 slug: "about"
 ---
 
-## Hi, I'm IndieFear 👋
+## Hi, I'm Stanislas 👋
 
 <div style="display:flex;align-items:center;gap:1.5rem;flex-wrap:wrap;">
   <img src="/images/indiefear.webp" alt="Portrait of IndieFear" style="width:220px;border-radius:32px;box-shadow:0 12px 24px rgba(0,0,0,0.15);" loading="lazy" />

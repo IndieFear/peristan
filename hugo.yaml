@@ -1,4 +1,4 @@
-baseURL: https://peristan.co/
+baseURL: https://IndieFear.github.io/peristan/
 languageCode: en-us
 defaultContentLanguage: en
 title: peristan
@@ -20,10 +20,10 @@ languages:
     languageName: English
     weight: 1
     params:
-      description: "IndieFear's studio for experiments, products, and ideas."
+      description: "Stanislas's studio for experiments, products, and ideas."
 
 params:
-  description: "IndieFear's studio for experiments, products, and ideas."
+  description: "Stanislas's studio for experiments, products, and ideas."
   navbar:
     displayTitle: true
     displayLogo: false
@@ -31,22 +31,18 @@ params:
     enable: true
     showSocial: true
     content: "© {{ now.Year }} peristan. All rights reserved."
-  social:
-    github: "https://github.com/IndieFear"
+
 
 menu:
   main:
-    - name: "Projects"
-      pageRef: /projects/
-      weight: 1
     - name: "About"
       pageRef: /about/
-      weight: 2
+      weight: 1
     - name: "Search"
-      weight: 3
+      weight: 2
       params:
         type: search
     - name: "Theme"
-      weight: 4
+      weight: 3
       params:
         type: themeToggle

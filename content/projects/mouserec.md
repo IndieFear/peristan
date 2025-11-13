@@ -18,6 +18,14 @@ project:
 
 MouseRec is a lightweight macOS utility that helps you automate repetitive tasks by recording your mouse and keyboard actions, then replaying them on demand as reusable macros.
 
+<div style="display:flex;flex-wrap:wrap;gap:0.5rem;margin:1.5rem 0;">
+  {{< badge content="macOS" color="blue" >}}
+  {{< badge content="automation" color="green" >}}
+  {{< badge content="productivity" color="purple" >}}
+  {{< badge content="macros" color="orange" >}}
+  {{< badge content="swift" color="red" >}}
+</div>
+
 <!-- IMAGE PLACEHOLDER -->
 ![Recording UI – placeholder](/images/projects/mouserec/mousrec.gif "Recording interface")
 <!-- TODO: Replace with a real screenshot -->
@@ -80,6 +88,11 @@ Whether you’re testing interfaces, filling forms, or repeating daily setup flo
 3. Replay it once, loop it, or change the playback speed.
 
 ---
+
+## Legal
+
+- [Privacy Policy](/projects/mouserec/privacy/) — MouseRec does not collect any data
+- [Terms of Use](/projects/mouserec/terms/) — Usage terms and conditions
 
 Want to follow development or request a feature? Open an issue on the GitHub repository or reach out to me directly.
 
