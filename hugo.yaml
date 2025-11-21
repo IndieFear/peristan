@@ -42,7 +42,3 @@ menu:
       weight: 2
       params:
         type: search
-    - name: "Theme"
-      weight: 3
-      params:
-        type: themeToggle
